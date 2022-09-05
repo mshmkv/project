@@ -1,1 +1,1 @@
-content
+echo some-content
